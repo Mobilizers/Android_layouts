@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FlowerShop</string>
+    <string name="Always">Always Fresh and vibrant!</string>
+    <string name="Description">"      Nelly’s flower shop has been your trusted florist since 1971 serving the New York area. Nelly’s Flower shop prides itself for offering quality, affordable and exquisite flowers for all occasions. \n      We are located at 501 Broadway in the heart of South Williamsburg, Brooklyn. Always trying to go the extra mile to accommodate all of our client’s floral needs."</string>
+    <string name="address">501 Broadway, Brooklyn, NY 11211</string>
+    <string name="Location">Location: \n501 Broadway Brooklyn, \nNY 11211  \nPhone: 718-963-4062 \nEmail: nelly@nellysflowershop.com</string>
+    <string name="hours">Store Hours:  \nEveryDay 9:00am – 7:00pm \nDuring holiday months please call, 718-963-4062 for extended store hours.</string>
+    <string name="Hint">EmailAddress@xyz.com</string>
+    <string name="button">Sign Up</string>
+    <string name="Caption">For all of life\'s celebrations!</string>
+</resources>
